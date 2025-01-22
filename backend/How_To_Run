@@ -1,0 +1,14 @@
+How to run this mern application
+1. first download the folder 
+2. select the folder into VS code or any editor
+3. open the terminal and go to backend
+   * cd backend
+4. Then run the backend
+   * npm run dev
+5. Then backend will run
+6. Now go to front end
+  * cd..
+  * cd frontend
+7. Now Run the frontend
+  *npm start
+8. Then voila you can see my application running 
